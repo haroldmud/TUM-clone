@@ -6,7 +6,7 @@ export default function Organization() {
      <section className="flex justify-center mt-20">
        <div className="w-84p">
         <div className="relative lg:block hidden">
-          <img className="lg:w-[60%] lg:h-[30rem] xl:h-auto xl:w-auto object-cover" src="https://www.tum.de/fileadmin/_processed_/8/1/csm_csm_20211111_Presidential_student_Lunch_Garching_AE_Z_-1004_64e4d1584d_4b7c164f6e.webp" alt="" />
+          <img className="lg:w-[60%] lg:h-30r xl:h-auto xl:w-auto object-cover" src="https://www.tum.de/fileadmin/_processed_/8/1/csm_csm_20211111_Presidential_student_Lunch_Garching_AE_Z_-1004_64e4d1584d_4b7c164f6e.webp" alt="" />
           <div>
             <OrganizationCard 
               heading="What drives us: President Thomas F. Hofmann about TUM" 

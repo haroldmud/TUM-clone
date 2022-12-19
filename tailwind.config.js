@@ -38,6 +38,7 @@ module.exports = {
       },
       height: {
         fit: "fit-content",
+        "30r":"30rem",
         "20r":"20rem",
       },
       borderWidth: {
